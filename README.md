@@ -1,4 +1,4 @@
-Debugging a full stack application sometimes feels like trying to navigate a foreign airport without a map, but I finally landed the plane! ✈️
+## Debugging a full stack application sometimes feels like trying to navigate a foreign airport without a map, but I finally landed the plane! ✈️
 
 I am thrilled to share my latest full stack application, On the Fly. I wanted to build a comprehensive travel planning app from scratch to challenge myself with connecting a modern user interface to a robust backend database.
 
@@ -10,3 +10,6 @@ Connecting a sleek client side experience with complex server side data manageme
 * Implemented full CRUD functionality, allowing users to create itineraries, vote on activities, and link available destinations.
 
 Check out the short demo video below to see the app in action. I even put my CapCut and Canva skills to work to edit a clean walkthrough of the features! Let me know what you think of the project in the comments.
+
+<img width="1798" height="1188" alt="W6L" src="https://github.com/user-attachments/assets/60c29b1c-cb48-4d6a-839c-39b10fcf74b8" />
+
